@@ -106,12 +106,13 @@ class offers extends Component {
                     link:"http://shopping.rediff.com/product/wayfarer-style-sunglasses-green-amp-purple-buy-1-get-1-free/14884323?sc_cid=www.google.com|search_buy-one-get-one-free"
                 },
                 {
-                    name: "Table linen",
-                    path: "https://rukminim1.flixcart.com/image/612/612/kekadu80/table-placemat/d/j/p/rtm-2902-revexo-original-imafv85gctksx4hb.jpeg?q=70",
-                    price:299,
-                    description:"REVEXO Rectangular Pack of 6 Table Placemat ",
-                    brand:"Revexo",
-                    site:"Flipkart"
+                    name: "Hair band",
+                    path: "https://images-eu.ssl-images-amazon.com/images/I/61U05WPKXbL._AC_UL200_SR200,200_.jpg",
+                    price:260,
+                    description:" Korean Style Solid Fabric Knot  ",
+                    brand:"Arnav",
+                    site:"Amazon",
+                    link:"https://www.amazon.in/Accessories-Korean-Plastic-Hairband-Headband/dp/B08GH7C8GF/ref=zg_bsnr_jewelry_2?_encoding=UTF8&psc=1&refRID=JXXYD6VKRDSWV93276WZ"
                 },
                 {
                     name: "Bedsheets ",
@@ -132,28 +133,31 @@ class offers extends Component {
                     link:"http://shopping.rediff.com/product/buy-1-get-1-free-mini-sewing-machine-with-foot-pedal-b1g1sewm01/22770990?sc_cid=www.google.com|search_buy-one-get-one-free"
                 },
                 {
-                    name: "Napkins ",
-                    path: "https://rukminim1.flixcart.com/image/612/612/k5zn9u80/cleaning-cloth/h/p/u/fbsorcc-30x40-pk2-flipkart-smartbuy-original-imafn9fcrrfyxeyk.jpeg?q=70",
-                    price:320,
-                    description:"Flipkart SmartBuy Microfiber Napkin P6 Multicolor Napkins",
-                    brand:"Flipkart",
-                    site:"Flipkart"
+                    name: "Cashews ",
+                    path: "https://m.media-amazon.com/images/I/914AwLDkAkL._AC_UL320_.jpg",
+                    price:945,
+                    description:"Whole Cashew Premium Combo Pack",
+                    brand:"Tulsi",
+                    site:"Amazon",
+                    link:"https://www.amazon.in/Tulsi-Premium-Cashews-Combo-Packet/dp/B07H4K6RB9/ref=sr_1_9?dchild=1&keywords=kaju+combo+pack&qid=1602552918&sr=8-9"
                 },
                 {
-                    name: "Shoes",
-                    path: "https://rukminim1.flixcart.com/image/464/557/kdyus280-0/shoe/z/0/4/combo-o-1595-1242-720-9-earton-multicolor-original-imafur94qrndcjzb.jpeg?q=50",
-                    price:499,
-                    description:"Sports (Walking & Gym Shoes) ",
-                    brand:"Swiggy",
-                    site:"Flipkart"
+                    name: "Floral art",
+                    path: "https://rukminim1.flixcart.com/image/612/612/k0wqwsw0/painting/y/f/z/safj25-saf-original-imafkhhv2hgjzccc.jpeg?q=70",
+                    price:199,
+                    description:"SAF Floral Art 6MM MDF Framed set",
+                    brand:"SAF",
+                    site:"Flipkart",
+                    link:"https://www.flipkart.com/saf-floral-art-6mm-mdf-framed-set-3-digital-reprint-15-inch-x-18-painting/p/itmfeybz7sy8xucc?pid=PTGFDZQ9HFURHYFZ&lid=LSTPTGFDZQ9HFURHYFZRKROEA&marketplace=FLIPKART&srno=b_1_23&otracker=hp_omu_Deals%2Bof%2Bthe%2BDay_3_3.dealCard.OMU_AAGMKVX48CSJ_2&otracker1=hp_omu_SECTIONED_neo%2Fmerchandising_Deals%2Bof%2Bthe%2BDay_NA_dealCard_cc_3_NA_view-all_2&fm=neo%2Fmerchandising&iid=5fad47cf-bed3-442a-b06e-eedfefadff01.PTGFDZQ9HFURHYFZ.SEARCH&ppt=browse&ppn=browse&ssid=iukwe56dv40000001602553179833"
                 },
                 {
-                    name: "Containers ",
-                    path: "https://rukminim1.flixcart.com/image/612/612/k2krekw0/container/h/g/t/oifktstmxp14pcsetp-polyset-original-imafhw3wx6mczqdq.jpeg?q=70",
-                    price:332,
-                    description:"Polyset Twisty-Valley of Tulip - 8600 ml Plastic Grocery Container",
-                    brand:"Polyset",
-                    site:"Flipkart"
+                    name: "Bath towels",
+                    path: "https://rukminim1.flixcart.com/image/612/612/ke4kjgw0/bath-towel/s/e/4/dollar-hand-towel-dz-dollar-set-of-12-hand-towel-metropolis-original-imafuv3gfzd2sgcs.jpeg?q=70",
+                    price:759,
+                    description:" Cotton 500 GSM Hand, Face Towel ",
+                    brand:"Metropolis",
+                    site:"Flipkart",
+                    link:"https://www.flipkart.com/metropolis-cotton-500-gsm-hand-face-towel/p/itm4274f8e3a3325?pid=BTWFUUJGNZWA8SE4&lid=LSTBTWFUUJGNZWA8SE49G9LLJ&marketplace=FLIPKART&srno=b_1_1&otracker=nmenu_sub_Home%20%26%20Furniture_0_Bath%20Towels&fm=neo%2Fmerchandising&iid=en_HEO%2F6qCCLJtzy%2BcSceO%2F%2BUBK9m7nJduXLXUB9nfHHQe0Na5%2BwwH5gvnug%2FLputRcSI1iMzEgwo%2Fzmhi6ZSCfUA%3D%3D&ppt=browse&ppn=browse&ssid=e2slsaa1e80000001602553430660"
                 },
                 
                 

@@ -188,7 +188,7 @@ class SubmitAdd extends React.Component {
 
                                             required nane="condition">
                                             <option value=''>Shared price</option>
-                                            <option value='new'>With two persons</option>
+                                            <option value='new'>Between two persons</option>
                                             <option value='new'>Morethan two persons</option>
 uct                                         </select>
                                     </div> : ''}

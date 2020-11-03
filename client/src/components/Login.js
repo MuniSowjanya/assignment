@@ -7,7 +7,7 @@ import axios from 'axios';
 import NotificationSystem from 'react-notification-system';
 import { connect } from 'react-redux';
 
-import { signin } from '../store/actions/action'
+import { signin } from '.././store/actions/action'
 
 class Login extends React.Component {
  
